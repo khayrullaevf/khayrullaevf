@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **fazliddinkhayrullaev4@gmail.com**
 
-- 📄 Know about my experiences [uzgidro](uzgidro)
+- 📄 Know about my experiences [uzgidro](https://github.com/uzgidro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
