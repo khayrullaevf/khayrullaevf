@@ -1,6 +1,6 @@
 <h1 align="center">Hello I'm Fazliddin Khayrullaev </h1>
 <h2> FullStack JavaScript Developer <h2/>
-<h3 align="center">A passionate MERN/MEAN stack developer from Uzbekistan</h3>
+<h3 align="center">An aspiring MERN/MEAN stack developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js**
 
