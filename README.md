@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ke_1frik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ke_1frik_" height="30" width="40" /></a>
+<a href="https://twitter.com/fazliddinkhoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ke_1frik_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fazliddin-khayrullaev-3a3b34228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazliddin khayrullaev" height="30" width="40" /></a>
 <a href="https://instagram.com/fazliddinkhayrullaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazliddinkhayrullaev" height="30" width="40" /></a>
 <a href="https://medium.com/@fazliddinkhayrullaev4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fazliddinkhayrullaev4" height="30" width="40" /></a>
