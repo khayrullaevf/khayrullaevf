@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khayrullaevf?](https://github.com/khayrullaevf?)
 
-- 📝 I regularly write articles on [https://t.me/fazliddinkhayrullaev](https://t.me/fazliddinkhayrullaev)
+<!-- - 📝 I regularly write articles on [https://t.me/fazliddinkhayrullaev](https://t.me/fazliddinkhayrullaev) -->
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Sass, Javascript, React.js, Jquery, Redux, Redux/toolkit, Angular, Node js , MongoDB, mongoose, Git Git hub, Antd, TypeScript**
 
