@@ -2,7 +2,7 @@
 <h2> FullStack JavaScript Developer <h2/>
 <h3 align="center">An aspiring MERN/MEAN stack developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js**
+- 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js,Dart**
 
 - 👯 I’m looking to collaborate on [Cineflex](https://github.com/khayrullaevf/cineflex-backend)
 
