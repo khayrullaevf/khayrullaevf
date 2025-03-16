@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js,Dart**
 
-- 👯 I’m looking to collaborate on [Cineflex](https://github.com/khayrullaevf/cineflex-backend)
+- 👯 I’m looking to collaborate on [EdTech](https://github.com/khayrullaevf/edTech)
 
 - 👨‍💻 All of my projects are available at [https://github.com/khayrullaevf?](https://github.com/khayrullaevf?)
 
