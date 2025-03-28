@@ -2,7 +2,7 @@
 <h2> FullStack JavaScript Developer <h2/>
 <h3 align="center">An aspiring MERN/MEAN stack developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js,Dart**
+- 🌱 I’m currently learning **Angular, Node.js,TypeScript, Nest.js,Next.js,Electron JS**
 
 - 👯 I’m looking to collaborate on [EdTech](https://github.com/khayrullaevf/edTech)
 
@@ -10,7 +10,7 @@
 
 <!-- - 📝 I regularly write articles on [https://t.me/fazliddinkhayrullaev](https://t.me/fazliddinkhayrullaev) -->
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Sass, Javascript, React.js, Jquery, Redux, Redux/toolkit, Angular, Node js , MongoDB, mongoose, Git Git hub, Antd, TypeScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Sass, Javascript, React.js, Jquery, Redux, Redux/toolkit, Angular, Node js , MongoDB, mongoose, Git Git hub, Antd, TypeScript,Electron js**
 
 - 📫 How to reach me **fazliddinkhayrullaev4@gmail.com**
 
